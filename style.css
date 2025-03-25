@@ -1,0 +1,218 @@
+hr {
+    width: 99%;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: #fff;
+}
+
+.region {
+    width: 38.7%;
+    height: 40px;
+    position: relative;
+    top: -5px;
+}
+
+.input {
+    width: 91%;
+    position: relative;
+    left: 90px;
+    position: relative;
+    top: -29px;
+    border-radius: 4px;
+}
+
+.logo {
+    width: 8.5%;
+    position: relative;
+    left: 17px;
+    top: 8px;
+    position: relative;
+    top: -9px;
+}
+
+hr {
+    position: relative;
+    top: 8px;
+    position: relative;
+    top: -23px;
+}
+
+#stile {
+    width: 8%;
+    height: 40px;
+    margin: 5px;
+    position: relative;
+    top: -5px;
+    border-radius: 4px;
+}
+
+.connexion {
+    position: relative;
+    left: 1300px;
+    top: 40px;
+    background-color: #5bb6bd;
+    border: 1px solid #5bb6bd;
+    color: white;
+    border-radius: 4px;
+    padding: 0.4rem 0.6rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: .875rem;
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 25px;
+    background: #5bb6bd;
+    border: #5bb6bd;
+    color: white;
+}
+
+.sauv {
+    background-color: #5bb6bd;
+    border: 1px solid #5bb6bd;
+    color: white;
+    border-radius: 4px;
+    padding: 0.4rem 0.6rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: .875rem;
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding: 11px;
+    position: relative;
+    top: -3px;
+}
+
+.noob {
+    width: 2%;
+    height: 30px;
+}
+
+button {
+    background: #5bb6bd;
+    border: #5bb6bd;
+    color: white;
+    font-size: .875rem;
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#langue {
+    position: relative;
+    left: 1300px;
+    top: 25px;
+    padding: 0.4rem 0.6rem;
+    border-radius: 5px;
+}
+
+.logo {
+    position: relative;
+    top: -23px;
+}
+
+.hr {
+    position: relative;
+    top: 45;
+}
+
+.hhrr {
+    margin-top: 14px;
+    margin-bottom: -5px;
+    text-align: center;
+    font-weight: 500;
+    color: #5d5d5d;
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+span {
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*les maison a louer*/
+
+.maison {
+    width: 100%;
+    height: auto;
+
+}
+
+.carte-maison {
+    width: 300px;
+    height: 350px;
+    /*overflow: hidden;*/
+    background: beige;
+    position: relative;
+    top: 90px;
+    left: 100px;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
+.carte-maison {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.carte-maison:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.bloc-maison {
+    height: 70%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.sp {
+    margin: 10px;
+    position: relative;
+    top: -70px;
+}
+
+.prix {
+    color: #5bb6bd;
+    position: relative;
+    top: 19px;
+}
+
+h3 {
+    position: relative;
+    top: -12px;
+    color: black;
+}
+
+p {
+    position: relative;
+    top: -25px;
+    color: black;
+}
